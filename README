@@ -1,0 +1,26 @@
+Primo Enrichment Plugin Example project
+---------------------------------------
+This is a skeleton project to help you get started in Primo Enrichment Plugin development
+Inorder to compile this you need to download primo_publishing-api.jar from your Primo installation and copy it into the lib directory.
+
+Creating an enrichment plugin is a 6 step process:
+
+   1. implement the com.exlibris.primo.api.enrichment.plugin.EnrichmentPlugIn interface in primo_publishing-api.jar(be_bin;cd ../client)
+   2. copy plugin to the backend server(be_production; cd conf/enrichPlugin/lib)
+   3. update custom_enrich_tasks_list.xml(be_production; cd conf/enrichPlugin)
+   4. create an 'Enrichment Set' and enable 'User Plugin Enrichment'
+   5. add 'Enrichment Set' to pipe
+   6. restart backend process
+
+
+custom_enrich_tasks_list.xml
+---------------------------
+
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<taskConfiguration>
+       <tasksPackage>com.example</tasksPackage>
+       <tasksList>
+               <taskName>HelloEnrichment</taskName>
+        </tasksList>
+</taskConfiguration>

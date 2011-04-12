@@ -1,0 +1,123 @@
+
+<record>
+    <control>
+        <sourcerecordid>000612132</sourcerecordid>
+        <sourceid>LBS01</sourceid>
+        <recordid>LBS01000612132</recordid>
+        <originalsourceid>LBS01</originalsourceid>
+        <ilsapiid>LBS01000612132</ilsapiid>
+        <sourceformat>MARC21</sourceformat>
+        <sourcesystem>Aleph</sourcesystem>
+    </control>
+    <display>
+        <type>book</type>
+        <title>Na de dood in Noviomagus</title>
+        <creator>Bogaers, J. E.  (Author) ; Haalebos, J. K.  (Author)</creator>
+        <creator>AAET</creator>
+        <publisher>S.l. : s.n.</publisher>
+        <creationdate>1985.</creationdate>
+        <format>P. 124-132.</format>
+        <language>dut</language>
+        <source>LBS01</source>
+        <availlibrary>$$IKUL$$LLBIB$$1LOKO: Archaeology (fourth floor)$$2(902(04) OVER 2 )$$Savailable$$31$$40$$5N$$60$$XLBS50$$YLBIB$$ZLOKO</availlibrary>
+        <unititle>Testrecords Primo-Limo</unititle>
+        <unititle>Spiegel historiael ; 20</unititle>
+        <availinstitution>$$IKUL$$Savailable</availinstitution>
+        <availpnx>available</availpnx>
+    </display>
+    <links>
+        <backlink>$$Taleph_backlink$$Ebacklink</backlink>
+        <linktoholdings>$$Taleph_holdings</linktoholdings>
+        <addlink>$$Tprimo_search_par$$DFind related documents</addlink>
+    </links>
+    <search>
+        <creatorcontrib>Bogaers J E</creatorcontrib>
+        <creatorcontrib>Bogaers, J</creatorcontrib>
+        <creatorcontrib>J E Bogaers</creatorcontrib>
+        <creatorcontrib>Haalebos J K</creatorcontrib>
+        <creatorcontrib>Haalebos, J</creatorcontrib>
+        <creatorcontrib>J K Haalebos</creatorcontrib>
+        <title>Testrecords Primo Limo</title>
+        <title>Spiegel historiael 20</title>
+        <title>Na de dood in Noviomagus</title>
+        <subject>Offprints Overdrukken</subject>
+        <general>S.l. : s.n., 1985.</general>
+        <general>P. 124-132.</general>
+        <general>Bogaers, J. E.</general>
+        <general>Haalebos, J. K.</general>
+        <sourceid>LBS01</sourceid>
+        <recordid>LBS01000612132</recordid>
+        <rsrctype>book</rsrctype>
+        <creationdate>1985</creationdate>
+        <searchscope>LBS01</searchscope>
+        <searchscope>LBIB</searchscope>
+        <searchscope>KUL</searchscope>
+        <scope>LBS01</scope>
+        <scope>LBIB</scope>
+        <scope>KUL</scope>
+    </search>
+    <sort>
+        <title>Testrecords Primo Limo</title>
+        <title>Spiegel historiael 20</title>
+        <title>Na de dood in Noviomagus</title>
+        <creationdate>1985</creationdate>
+        <author>Bogaers J E</author>
+        <author>Bogaers, J</author>
+        <author>J E Bogaers</author>
+        <author>Haalebos J K</author>
+        <author>Haalebos, J</author>
+        <author>J K Haalebos</author>
+    </sort>
+    <facets>
+        <language>dut</language>
+        <creationdate>1985</creationdate>
+        <collection>LIBISnet Catalogue</collection>
+        <toplevel>libisnet</toplevel>
+        <prefilter>books</prefilter>
+        <rsrctype>books</rsrctype>
+        <creatorcontrib>Bogaers, J</creatorcontrib>
+        <creatorcontrib>Haalebos, J</creatorcontrib>
+        <library>LBIB</library>
+        <frbrgroupid>402248</frbrgroupid>
+        <frbrtype>6</frbrtype>
+    </facets>
+    <dedup>
+        <t>1</t>
+        <c3>nadedoodinnoviomagusdut</c3>
+        <c4>1985</c4>
+        <f5>nadedoodinnoviomagus</f5>
+        <f6>1985</f6>
+        <f7>na de dood in noviomagus</f7>
+        <f9>xx</f9>
+        <f10>s</f10>
+    </dedup>
+    <frbr>
+        <t>1</t>
+        <k1>$$Kbogaers j e$$AA</k1>
+        <k1>$$Khaalebos j k$$AA</k1>
+        <k2>$$Kna de dood in noviomagus$$AT</k2>
+    </frbr>
+    <delivery>
+        <institution>KUL</institution>
+        <delcategory>Physical Item</delcategory>
+    </delivery>
+    <ranking>
+        <booster1>1</booster1>
+        <booster2>1</booster2>
+    </ranking>
+    <addata>
+        <aulast>Bogaers</aulast>
+        <aufirst>J. E.</aufirst>
+        <addau>Bogaers, J. E</addau>
+        <addau>Haalebos, J. K</addau>
+        <btitle>Na de dood in Noviomagus</btitle>
+        <seriestitle>Spiegel historiael 20</seriestitle>
+        <date>1985</date>
+        <risdate>1985.</risdate>
+        <format>book</format>
+        <genre>book</genre>
+        <ristype>BOOK</ristype>
+        <cop>S.l.</cop>
+        <pub>s.n.</pub>
+    </addata>
+</record>
